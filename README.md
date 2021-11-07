@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python & Linux
 - 📫 You can contact me by redditler@gmail.com
 
-> Ваш тело это лишь API между вами и реальным миром. А вы это лишь приложение по глубокуому обучению. 🤯
+> Your body is just an API between you and the real world. And you are just a deep learning app. 🤯
 
 
 
